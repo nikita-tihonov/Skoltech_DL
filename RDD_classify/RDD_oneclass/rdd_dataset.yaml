@@ -1,0 +1,7 @@
+# The dataset path
+train: /China_MotorBike/images/train
+val: /China_MotorBike/images/val
+
+# Class Names List
+names:
+  0: Crack

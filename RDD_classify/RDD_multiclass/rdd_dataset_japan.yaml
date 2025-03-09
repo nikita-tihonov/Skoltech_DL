@@ -1,0 +1,10 @@
+# The dataset path
+train: /Japan/images/train
+val: /Japan/images/val
+
+# Class Names List
+names:
+  0: Linear Longitudinal Crack
+  1: Linear Lateral Crack
+  2: Alligator Crack
+  3: Other Corruption
